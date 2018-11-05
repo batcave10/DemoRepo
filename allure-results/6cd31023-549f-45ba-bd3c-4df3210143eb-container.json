@@ -1,0 +1,1 @@
+{"uuid":"6cd31023-549f-45ba-bd3c-4df3210143eb","name":"com.crm.qa.testcases.LoginPageTest.setUp","description":"","start":1541057866960,"stop":1541057875291,"children":["acdeac2b-fd44-47d0-b396-08d0335defcd"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1541057866960,"stop":1541057875290}]}
